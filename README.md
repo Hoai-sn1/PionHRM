@@ -37,8 +37,8 @@ The document file located in the Documents folder includes:
 ---
 
 ## Project Structure
-/SourceCode        -> Source code project
-/Documents         -> BA documents
+- /SourceCode        -> Source code project
+- /Documents         -> BA documents
 
 ---
 
